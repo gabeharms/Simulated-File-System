@@ -1,9 +1,4 @@
-CMPSC 473 - Project 4
-
-Group Members: Gabe Harms
-	John Guda
-	Luke Uliana
------------------------------------------
+### Project Description
 
 This was assignment was a group project that we were assigned in our 
 Operating Systems class. The goal of this program is to simulate a 
